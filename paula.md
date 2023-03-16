@@ -45,10 +45,3 @@ Crear un _Github Profile README1_ que contenga:
 | exit/ | e | cierra la terminal |
 | git init | gi | inicia un repositorio Git |
 | git status | gst | muestra el estado del directorio de trabajo |
-
-
-#Prueba de cambio en Staging area con git status#
-
-changes no staged for commit
-
-*Cambio para probar en la rama main*
